@@ -17,6 +17,7 @@
   前往Oracle的官网下载JDK：
   http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
   本次在平台上，已有配置相关jdk包，后续本地安装，用户可以使用wget进行下载安装到执行路径，下述同上！！！！
+  
   2.hadoop安装
   
   下载Hadoop
